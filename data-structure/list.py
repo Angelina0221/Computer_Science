@@ -12,6 +12,7 @@ print("number of grades A:", number_of_A_grades)
 numbers = [0, 0, 1, 1, 2,3,4,0,0,1,1,0]
 #count number of zeros
 zero_frequency = numbers.count(0)
+
 print("number of zeros", zero_frequency)
 #sort list
 numbers.sort()
