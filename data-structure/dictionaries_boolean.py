@@ -6,6 +6,7 @@ has_pets = {"Mars":False, "Henry":False, "Barbie":True, "Adrain":True, "Angelina
 student_has_pet = has_pets.get("Barbie")
 print("The student that has pet:", student_has_pet) 
 
+
 #traverse the dictionary
 for student in has_pets:
     print(student, 'has a pet:', has_pets.get(student))

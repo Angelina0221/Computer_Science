@@ -1,5 +1,5 @@
 #initalize a list (linkedlist)
-students_names = ["Mike","Amy","Charlie"]
+students_names = ["Mike","Mars","Charlie"]
 
 #add a name to our list
 students_names.append("Mars")
@@ -15,3 +15,4 @@ for name in students_names:
 #get the length of the list
 length = len(students_names)
 print(length)
+

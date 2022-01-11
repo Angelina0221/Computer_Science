@@ -4,7 +4,7 @@ test_scores= array("i",[90, 70, 40, 60,98, 97, 93])
 
 #add another test scores to end of our array (append = add)
 test_scores.append(100)
-print(test_scores[1])
+print(test_scores[1])  ??????
 
 #iterate over the array
 for score in test_scores:
